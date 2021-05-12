@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="redColor">#DF4E4E</color>
+
+    <color name="red">#F83B00</color>
+
+    <color name="semiTransparentColor">#ABFDFDFD</color>
+    <color name="TransparentColor">#00FDFDFD</color>
+
+
+    <!-- survey form and onboarding screen  -->
+    <color name="colorAccent">#EA8E05</color>
+    <color name="transparentWhite">#cccccc</color>
+    <color name="colorPrimary">#EF9005</color>
+    <color name="Orange">#E38802</color>
+
+    <!-- for start activity background color  -->
+    <color name="greyishBackground">#DDD0AF</color>
+    <color name="colorBackground">#F4F7F7</color>
+
+
+    <!-- for what today background color -->
+    <color name="color1">#424549</color>
+    <color name="color2">#7e455e</color>
+    <color name="color3">#796e25</color>
+    <color name="color4">#59717c</color>
+
+
+
+    <!-- for detail recipie today background color -->
+    <color name="colorPrimaryDark">#630118</color>
+
+    <color name="colorNull">#00000000</color>
+    <color name="colorIcons">#7C7F81</color>
+    <color name="colorPrimaryText">#1e1e1e</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorWhiteDark">#DBDBDB</color>
+    <color name="colorPrimaryLight">#CA7474</color>
+
+</resources>
